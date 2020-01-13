@@ -95,10 +95,5 @@ def TestSearch(list_len, exp_count):
         print("Steps of Binary Searching with SelSort: %d" % BinarySearch)
         print("Time:", Time)
         
-#TestSearch(10,10)
+TestSearch(10,10)
         
-s = "Jupiter Notebook"
-index = len(s)-1
-while index >= 0:
-    print(s[index],end = "")
-    index -= 1
