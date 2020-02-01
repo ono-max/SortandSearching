@@ -21,15 +21,15 @@ You have to prepare the environment of Python3.
 
 ## Usage
 
-After installing all files, type "python3 project.py" in terminal.
+After installing all files, type "python3 SortandSearch.py" in terminal.
 
 ## Install(terminal)
 
-git clone https://github.com/ono-max/AdventureGame.git
+git clone https://github.com/ono-max/SortandSearching.git
 
 ## Contribution
 
-1. Fork it ( https://github.com/ono-max/AdventureGame.git )
+1. Fork it ( https://github.com/ono-max/SortandSearching.git )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
